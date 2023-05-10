@@ -1,7 +1,7 @@
 # Jest-Another-RPG
 A command-line role-playing game (RPG) in which the user battles a series of enemies whose health and stats can be sustained by taking a potion.
-This game create new objects using JavaScript constructor functions, and implements basic code tests using the Jest framework.
-Jest is a JavaScript testing framework with a focus on simplicity. It tests units of code to determine whether they're fit for use. Jest is very fast and opinionated, meaning that it makes assumptions about software development best practices and the architecture of the application you’re testing. It also provides everything out of the box, without requiring a lot of configuration.
+This game creates new objects using JavaScript constructor functions, and implements basic code tests using the Jest framework.
+Jest is a JavaScript testing framework with a focus on simplicity; it tests units of code to determine whether they're fit for use. Jest is very fast and opinionated, meaning that it makes assumptions about software development best practices and the architecture of the application you’re testing. It also provides everything out of the box, without requiring a lot of configuration.
 Using Test Driven Development helps us write code that's maintainable and follows best practices. It also gives us a little peace of mind as developers, knowing that the parts of our code that have tests are less likely to break unexpectedly. If our code does break at some point, it will be much easier to identify how to debug it because the failing tests will let us know exactly what went wrong.
 
 ## My approach towards building the game using the command line interface:
