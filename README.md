@@ -15,7 +15,6 @@ Using Test Driven Development helps us write code that's maintainable and follow
     -Take user input and use template literals to dynamically generate an entire HTML page directly from the command line.
     -Integrate constructor functions into your applications, adding structure to your code and reducing the amount of code you have to write.
     -Build entire applications using OOP, separating data and functionality into distinct constructor functions that can be composed together.
-    -Verify that your code works as intended by using automated tests.
     -Build applications using test-driven development, writing tests before implementing functionality.
     -Use modern ES6 class syntax to implement more advanced OOP patterns, like inheritance.
     -Create more scalable applications that follow the OOP paradigm.
